@@ -1,0 +1,10 @@
+spring:
+  data:
+    mongodb:
+      authentication-database: orderms
+      auto-index-creation: true
+      host: localhost
+      port: 27018
+      database: orderms_db
+      username: orderms
+      password: orderms
