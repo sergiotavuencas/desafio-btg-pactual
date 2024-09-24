@@ -1,4 +1,4 @@
-# Desafio de Microserviço pela BTG Pactual
+# Desafio de Microsserviço pela BTG Pactual
 <div>
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
@@ -10,7 +10,7 @@
 </div>
 
 Desafio proposto pela BTG Pactual para uma vaga de desenvolvedor backend. A proposta tem como objetivo desenvolver um
-microserviço capaz de:
+microsserviço capaz de:
 
 - Processar pedidos a partir de uma fila RabbitMQ.
 - Desenvolver uma API REST que permita efetuar as seguintes consultas:
