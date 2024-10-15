@@ -1,10 +1,16 @@
 spring:
   data:
     mongodb:
-      authentication-database: orderms
+      authentication-database: admin
       auto-index-creation: true
-      host: localhost
-      port: 27018
+      host: mongodb
+      port: 27017
       database: orderms_db
       username: orderms
       password: orderms
+
+  rabbitmq:
+    host: rabbitmq
+    port: 5672
+    username: orderms
+    password: orderms
