@@ -8,9 +8,9 @@
     <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
     <img src="https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=sonarlint&logoColor=white">
 </div>
-
-Desafio proposto pela BTG Pactual para uma vaga de desenvolvedor backend. A proposta tem como objetivo desenvolver um
-microsserviço capaz de:
+Este projeto foi desenvolvido com o objetivo de aprofundar os conhecimentos em Spring Boot, seguindo o tutorial 
+ministrado por Bruno Grana. O tutorial visa resolver o desafio proposto pela BTG Pactual para uma vaga de desenvolvedor 
+backend. A proposta tem como objetivo desenvolver um microsserviço capaz de:
 
 - Processar pedidos a partir de uma fila RabbitMQ.
 - Desenvolver uma API REST que permita efetuar as seguintes consultas:
@@ -32,6 +32,15 @@ microsserviço capaz de:
 - API REST
 - Injeção de Dependências
 - Consumo de filas
+
+## Instruções
+
+No seguinte arquivo [HELP](https://github.com/sergiotavuencas/desafio-btg-pactual-orderms/blob/main/HELP.md) estão os passos
+necessários para rodar a aplicação.
+
+## Referências
+- [Canal](https://www.youtube.com/@buildrun-tech)
+- [Tutorial](https://www.youtube.com/watch?v=e_WgAB0Th_I&t=1376s)
 
 ## Github
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sergiotavuencas)](https://github.com/anuraghazra/github-readme-stats)
